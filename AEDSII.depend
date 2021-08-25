@@ -1,0 +1,240 @@
+# depslib dependency file v1.0
+1629731890 source:c:\users\samira freitas\documents\teste\algoritmos-estruturas-de-dados-ii-main\arvore_binaria.c
+	"arvore_binaria.h"
+
+1629731890 c:\users\samira freitas\documents\teste\algoritmos-estruturas-de-dados-ii-main\arvore_binaria.h
+	<stdio.h>
+	<stdlib.h>
+	"funcionarios.h"
+
+1629731890 c:\users\samira freitas\documents\teste\algoritmos-estruturas-de-dados-ii-main\funcionarios.h
+	<stdio.h>
+
+1629731890 source:c:\users\samira freitas\documents\teste\algoritmos-estruturas-de-dados-ii-main\funcionario.c
+	<stdlib.h>
+	<string.h>
+	"funcionarios.h"
+
+1629840029 source:c:\users\samira freitas\documents\teste\algoritmos-estruturas-de-dados-ii-main\intercalacao.c
+	"intercalacao.h"
+	"funcionarios.h"
+	<limits.h>
+	<stdio.h>
+	<stdlib.h>
+
+1629839713 c:\users\samira freitas\documents\teste\algoritmos-estruturas-de-dados-ii-main\intercalacao.h
+	"lista.h"
+	"pilha.h"
+	"arvore_binaria.h"
+
+1629731890 c:\users\samira freitas\documents\teste\algoritmos-estruturas-de-dados-ii-main\lista.h
+
+1629839917 c:\users\samira freitas\documents\teste\algoritmos-estruturas-de-dados-ii-main\pilha.h
+	"funcionarios.h"
+
+1629731890 source:c:\users\samira freitas\documents\teste\algoritmos-estruturas-de-dados-ii-main\lista.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"lista.h"
+
+1629731890 source:c:\users\samira freitas\documents\teste\algoritmos-estruturas-de-dados-ii-main\manipulacao_arquivos.c
+	<stdlib.h>
+	"manipulacao_arquivos.h"
+	"funcionarios.h"
+	"math.h"
+
+1629731890 c:\users\samira freitas\documents\teste\algoritmos-estruturas-de-dados-ii-main\manipulacao_arquivos.h
+	<stdio.h>
+
+1629731890 source:c:\users\samira freitas\documents\teste\algoritmos-estruturas-de-dados-ii-main\ordenacao_busca.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"funcionarios.h"
+
+1629731890 source:c:\users\samira freitas\documents\teste\algoritmos-estruturas-de-dados-ii-main\particoes.c
+	"funcionarios.h"
+	<stdlib.h>
+	<limits.h>
+	"particoes.h"
+
+1629731890 c:\users\samira freitas\documents\teste\algoritmos-estruturas-de-dados-ii-main\particoes.h
+	<stdio.h>
+	"lista.h"
+
+1629731890 source:c:\users\samira freitas\documents\teste\algoritmos-estruturas-de-dados-ii-main\pilha.c
+	"pilha.h"
+
+1629840442 source:c:\users\samira freitas\documents\teste\algoritmos-estruturas-de-dados-ii-main\main.c
+	<stdlib.h>
+	"ordenacao_busca.h"
+	"lista.h"
+	"particoes.h"
+	"intercalacao.h"
+	"arvore_binaria.h"
+
+1629731890 c:\users\samira freitas\documents\teste\algoritmos-estruturas-de-dados-ii-main\ordenacao_busca.h
+	<stdio.h>
+	"funcionarios.h"
+
+1629841062 source:c:\users\thalysson\desktop\algoritmos-estruturas-de-dados-ii-main\arvore_binaria.c
+	"arvore_binaria.h"
+
+1629841036 c:\users\thalysson\desktop\algoritmos-estruturas-de-dados-ii-main\arvore_binaria.h
+	<stdio.h>
+	<stdlib.h>
+	"funcionarios.h"
+
+1629731890 c:\users\thalysson\desktop\algoritmos-estruturas-de-dados-ii-main\funcionarios.h
+	<stdio.h>
+
+1629731890 source:c:\users\thalysson\desktop\algoritmos-estruturas-de-dados-ii-main\funcionario.c
+	<stdlib.h>
+	<string.h>
+	"funcionarios.h"
+
+1629731890 source:c:\users\thalysson\desktop\algoritmos-estruturas-de-dados-ii-main\lista.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"lista.h"
+
+1629731890 c:\users\thalysson\desktop\algoritmos-estruturas-de-dados-ii-main\lista.h
+
+1629840442 source:c:\users\thalysson\desktop\algoritmos-estruturas-de-dados-ii-main\main.c
+	<stdlib.h>
+	"ordenacao_busca.h"
+	"lista.h"
+	"particoes.h"
+	"intercalacao.h"
+	"arvore_binaria.h"
+
+1629731890 c:\users\thalysson\desktop\algoritmos-estruturas-de-dados-ii-main\ordenacao_busca.h
+	<stdio.h>
+	"funcionarios.h"
+
+1629731890 c:\users\thalysson\desktop\algoritmos-estruturas-de-dados-ii-main\particoes.h
+	<stdio.h>
+	"lista.h"
+
+1629839713 c:\users\thalysson\desktop\algoritmos-estruturas-de-dados-ii-main\intercalacao.h
+	"lista.h"
+	"pilha.h"
+	"arvore_binaria.h"
+
+1629839917 c:\users\thalysson\desktop\algoritmos-estruturas-de-dados-ii-main\pilha.h
+	"funcionarios.h"
+
+1629731890 source:c:\users\thalysson\desktop\algoritmos-estruturas-de-dados-ii-main\manipulacao_arquivos.c
+	<stdlib.h>
+	"manipulacao_arquivos.h"
+	"funcionarios.h"
+	"math.h"
+
+1629731890 c:\users\thalysson\desktop\algoritmos-estruturas-de-dados-ii-main\manipulacao_arquivos.h
+	<stdio.h>
+
+1629731890 source:c:\users\thalysson\desktop\algoritmos-estruturas-de-dados-ii-main\ordenacao_busca.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"funcionarios.h"
+
+1629731890 source:c:\users\thalysson\desktop\algoritmos-estruturas-de-dados-ii-main\particoes.c
+	"funcionarios.h"
+	<stdlib.h>
+	<limits.h>
+	"particoes.h"
+
+1629731890 source:c:\users\thalysson\desktop\algoritmos-estruturas-de-dados-ii-main\pilha.c
+	"pilha.h"
+
+1629841037 source:c:\users\thalysson\desktop\algoritmos-estruturas-de-dados-ii-main\intercalacao.c
+	"intercalacao.h"
+	"funcionarios.h"
+	<limits.h>
+	<stdio.h>
+	<stdlib.h>
+	"arvore_binaria.h"
+
+1629841062 source:c:\users\samira freitas\desktop\algoritmos-estruturas-de-dados-ii-main\arvore_binaria.c
+	"arvore_binaria.h"
+
+1629841036 c:\users\samira freitas\desktop\algoritmos-estruturas-de-dados-ii-main\arvore_binaria.h
+	<stdio.h>
+	<stdlib.h>
+	"funcionarios.h"
+
+1629731890 c:\users\samira freitas\desktop\algoritmos-estruturas-de-dados-ii-main\funcionarios.h
+	<stdio.h>
+
+1629731890 source:c:\users\samira freitas\desktop\algoritmos-estruturas-de-dados-ii-main\funcionario.c
+	<stdlib.h>
+	<string.h>
+	"funcionarios.h"
+
+1629914631 source:c:\users\samira freitas\desktop\algoritmos-estruturas-de-dados-ii-main\intercalacao.c
+	"intercalacao.h"
+	"funcionarios.h"
+	<limits.h>
+	<stdio.h>
+	<stdlib.h>
+	"arvore_binaria.h"
+
+1629839713 c:\users\samira freitas\desktop\algoritmos-estruturas-de-dados-ii-main\intercalacao.h
+	"lista.h"
+	"pilha.h"
+	"arvore_binaria.h"
+
+1629731890 c:\users\samira freitas\desktop\algoritmos-estruturas-de-dados-ii-main\lista.h
+
+1629839917 c:\users\samira freitas\desktop\algoritmos-estruturas-de-dados-ii-main\pilha.h
+	"funcionarios.h"
+
+1629731890 source:c:\users\samira freitas\desktop\algoritmos-estruturas-de-dados-ii-main\lista.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"lista.h"
+
+1629840442 source:c:\users\samira freitas\desktop\algoritmos-estruturas-de-dados-ii-main\main.c
+	<stdlib.h>
+	"ordenacao_busca.h"
+	"lista.h"
+	"particoes.h"
+	"intercalacao.h"
+	"arvore_binaria.h"
+
+1629731890 c:\users\samira freitas\desktop\algoritmos-estruturas-de-dados-ii-main\ordenacao_busca.h
+	<stdio.h>
+	"funcionarios.h"
+
+1629731890 c:\users\samira freitas\desktop\algoritmos-estruturas-de-dados-ii-main\particoes.h
+	<stdio.h>
+	"lista.h"
+
+1629731890 source:c:\users\samira freitas\desktop\algoritmos-estruturas-de-dados-ii-main\manipulacao_arquivos.c
+	<stdlib.h>
+	"manipulacao_arquivos.h"
+	"funcionarios.h"
+	"math.h"
+
+1629731890 c:\users\samira freitas\desktop\algoritmos-estruturas-de-dados-ii-main\manipulacao_arquivos.h
+	<stdio.h>
+
+1629731890 source:c:\users\samira freitas\desktop\algoritmos-estruturas-de-dados-ii-main\ordenacao_busca.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"funcionarios.h"
+
+1629731890 source:c:\users\samira freitas\desktop\algoritmos-estruturas-de-dados-ii-main\particoes.c
+	"funcionarios.h"
+	<stdlib.h>
+	<limits.h>
+	"particoes.h"
+
+1629731890 source:c:\users\samira freitas\desktop\algoritmos-estruturas-de-dados-ii-main\pilha.c
+	"pilha.h"
+
